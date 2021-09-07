@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/idsidaveg.lwc-ktam74wy",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 4CKlZZTQl7UxSVX8igNj --open"
+  }
+}
